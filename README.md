@@ -1,2 +1,2 @@
 # GameDev-Experiments
-A place for all my experiments to be saved
+Bsically me experimenting with Unity and C#
